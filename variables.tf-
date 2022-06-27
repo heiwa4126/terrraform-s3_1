@@ -1,0 +1,9 @@
+variable "region" {
+  default = "ap-northeast-9"
+}
+variable "author_mail" {
+  default = "foo@example.com"
+}
+variable "s3_name" {
+  default = "foo-test1-zzzzzzxaaa"
+}
